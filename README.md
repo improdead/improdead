@@ -74,12 +74,6 @@
 - 🎖️ **Harvard's CS50 and CS50's Introduction to Programming with Python** Graduate
 - 💻 **Professional Web Developer** at Horizons Hampton Roads, Inc.
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
-</div>
 
 ## 🔥 Contribution Streak
 
