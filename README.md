@@ -59,40 +59,6 @@
 
 </div>
 
-## 🚀 Featured Projects
-
-<div align="center">
-  
-  <a href="https://github.com/yourusername/exterior-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=exterior-ai&theme=radical" />
-  </a>
-  <a href="https://github.com/yourusername/cozy-list">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=cozy-list&theme=radical" />
-  </a>
-  
-</div>
-
-### 🏡 Exterior AI - Backyard Renovation Revolution
-*Transform your outdoor space with a single click*
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Eleven_Labs-000000?style=flat-square&logoColor=white" />
-
-- Created an innovative app that transforms backyard photos into renovation visualizations
-- Implemented seamless voice input with Eleven Labs API for natural user interaction
-- Leveraged Google Gemini's advanced image processing for photorealistic transformations
-- Built with modern React, Next.js, and TypeScript for a responsive, intuitive experience
-
-### ✅ Cozy-List - AI-Powered Productivity
-*The smart to-do list that knows you better than you know yourself*
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
-
-- **40% Higher Completion Rate**: Adaptive task prioritization based on personal habits
-- **60% Less Manual Input**: Smart automation for recurring tasks
-- **30% Increase in Daily Active Users**: Powered by Gemini 2.0 flash-lite for motivational prompts
-- **4.8/5 Average Rating**: Sleek UI with React and Tailwind CSS
-- **<100ms Data Sync Speed**: Lightning-fast Firebase backend
-- **Hosted on Vercel**: With continuous deployment
 
 ## 🌱 What I'm Growing
 
