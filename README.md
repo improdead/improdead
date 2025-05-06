@@ -19,7 +19,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="60" height="60" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmysql-com.en.softonic.com%2F&psig=AOvVaw2tmbf7FeB2mW-_fRHbpXZ8&ust=1746658943032000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMD3p-H5j40DFQAAAAAdAAAAABAK" alt="Mysql" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="60" height="60" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="60" height="60" />
