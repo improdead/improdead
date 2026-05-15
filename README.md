@@ -1,43 +1,102 @@
-# 👨‍💻 Dekai Li | AI & Web Developer
+# 👨‍💻 Dekai Li | CTO at Trident
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=435&lines=AI+Engineer;Full-Stack+Developer;Startup+Founder;Innovation+Explorer;Tech+Optimist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=700&lines=CTO+at+Trident;Co-Founder+at+Esprit;Competitive+Math;Researcher;Software+Developer;Information+Security;Rizz" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  CTO at <strong>Vector</strong> • SWE at <strong>RevisionDojo (YC F24)</strong> • Venture Scout at <strong>LvlUp Ventures</strong>
+  <strong>CTO at Trident</strong> • <strong>Co-Founder at Esprit</strong> • <strong>Researcher</strong> • <strong>Competitive Math</strong>
 </p>
 
 <p align="center">
-  17-year-old builder from North York turning ideas into intelligent, scalable, and creative software — one project, one startup, one line of code at a time.
+  Building ambitious software at the intersection of research, information security, AI systems, and founder-led products.
 </p>
 
 <div align="center">
-  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lidekai2008@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/li-dekai-8287332a6/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://dekai.tryvector.tech/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-  
+
+[![Email](https://img.shields.io/badge/Email-dekai%40esprit.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dekai@esprit.dev)
+[![Gmail](https://img.shields.io/badge/Gmail-lidekai2008%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lidekai2008@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dekai%20Li-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dekai-li-8287332a6/)
+[![Website](https://img.shields.io/badge/Website-dekai.me-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dekai.me/)
+[![GitHub](https://img.shields.io/badge/GitHub-improdead-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/improdead)
+
 </div>
 
 ---
 
 ## 🚀 About Me
 
-At 11, I built my first Unity game.  
-At 13, I made $500 betting on sports with arbitrage (before getting banned 😅).  
-At 15, I mastered Python and JavaScript through CS50 and Udemy.  
-At 16, I discovered AI — and haven’t looked back since.  
-At 17, I founded **Vector**, raised **$81K**, and started building **Cursor**, a next-gen AI-powered coding platform for game developers (backed by Spur Ventures).
+I’m **Dekai Li**, a competitive math builder, researcher, software developer, and CTO based in Canada.
 
-I’ve been fortunate to learn from founders at **Y Combinator**, **a16z**, and **Launch Lab**, and now I help scout new startups with **LvlUp Ventures**.
+I’m currently **CTO at Trident** and **Co-Founder at Esprit**, where I’m building ambitious products at the intersection of software, research, security, and applied AI. I’m especially interested in systems that move fast, scale cleanly, and turn technical ideas into real-world products.
 
-💬 I love building tools that merge creativity with intelligence — from neural agents to dynamic web systems.
+Previously, I was a **Software Engineer at RevisionDojo (YC F24)**, where I built **mobile infrastructure** and a **RAG system from scratch**. I also worked as a **Researcher at the University of Toronto**, continuing my focus on technical depth, experimentation, and problem-solving.
+
+💬 Reach out at **dekai@esprit.dev** — always happy to discuss tech.
 
 ---
 
-## 🧠 Skills & Tools
+## 🧠 Current Focus
+
+- 🛡️ **Information Security** — security-minded engineering, systems thinking, and robust software design  
+- 🧠 **Research** — experimentation, technical exploration, and competitive problem-solving  
+- ⚙️ **Software Development** — full-stack systems, infrastructure, and product engineering  
+- 🤖 **AI / RAG Systems** — applied AI workflows, retrieval systems, and intelligent tools  
+- 🚀 **Founder Work** — building and shipping from zero to one  
+- 😎 **Rizz** — officially LinkedIn-certified energy  
+
+---
+
+## 💼 Experience
+
+### 🧭 CTO at Trident
+<p>
+  Leading technical direction, product execution, and engineering strategy.
+</p>
+
+### 🚀 Co-Founder — Esprit
+<p>
+  <strong>February 2026 – Present</strong> • San Francisco Bay Area
+</p>
+
+Building new products from the ground up, with a focus on fast execution, software systems, and founder-led experimentation.
+
+### 👾 Software Engineer — RevisionDojo (YC F24)
+<p>
+  <strong>October 2025 – January 2026</strong> • New York, United States
+</p>
+
+Built **mobile infrastructure** and a **RAG system from scratch**, working across product, backend, AI systems, and engineering execution.
+
+### 🔬 Researcher — University of Toronto
+<p>
+  <strong>July 2025 – October 2025</strong> • Toronto, Ontario, Canada
+</p>
+
+Worked on research-driven technical exploration, applying structured problem-solving and experimentation to complex systems.
+
+---
+
+## 🎓 Education
+
+### 🏫 University of Waterloo
+**Bachelor of Science — Computer Science**
+
+### 🚀 Y Combinator
+Studied and learned from one of the world’s strongest startup ecosystems.
+
+---
+
+## 🛠️ Skills & Tools
+
+### 🏆 Top Skills
+<div align="center">
+
+![Information Security](https://img.shields.io/badge/Information%20Security-0F172A?style=for-the-badge&logo=protonvpn&logoColor=white)
+![Software Development](https://img.shields.io/badge/Software%20Development-2563EB?style=for-the-badge&logo=codeforces&logoColor=white)
+![Rizz](https://img.shields.io/badge/Rizz-FF4D8D?style=for-the-badge&logo=sparkfun&logoColor=white)
+
+</div>
 
 ### 🧩 Programming Languages
 <div align="center">
@@ -98,33 +157,48 @@ I’ve been fortunate to learn from founders at **Y Combinator**, **a16z**, and 
 
 ---
 
-## 🌱 Currently Building & Learning
+## 📌 Timeline
 
-- 🧠 Developing **RAG pipelines** with LangChain, LangGraph, and Pinecone  
-- 🤖 Creating **AI copilots** for devs and game creators  
-- ⚙️ Scaling **Next.js** full-stack apps with serverless APIs  
-- 🧩 Building multiplayer prototypes in **Unity (C#)**  
-- ☁️ Experimenting with **Azure AI**, **OpenAI API**, and **LlamaIndex**  
-- 🎨 Playing with **Stable Diffusion**, **ComfyUI**, and **NeRFs**
-
----
-
-## 🏆 Highlights
-
-- 💰 Raised **$81,000** through a hackathon for **Vector**  
-- 🎓 **Waterloo Fermat Math Contest Distinction** (2022)  
-- 🏅 **Galois Math Honor Roll** (2023)  
-- 🎖️ **Harvard’s CS50** + **CS50P** graduate  
-- 💻 **Web Developer** at Horizons Hampton Roads (helped deploy their site)  
-- 🧑‍💼 **Venture Scout** at LvlUp Ventures and Launch Lab  
-- 👾 **SWE @ RevisionDojo (YC F24)**  
+```txt
+2026 – Present   Co-Founder at Esprit | San Francisco Bay Area
+2026 – Present   CTO at Trident
+2025 – 2026      Software Engineer at RevisionDojo (YC F24)
+2025             Researcher at University of Toronto
+Present          BSc Computer Science at University of Waterloo
+```
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=improdead&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=improdead&show_icons=true&theme=radical&hide_border=true" alt="Dekai's GitHub Stats" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=improdead&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=improdead&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Esprit Email](https://img.shields.io/badge/Email-dekai%40esprit.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dekai@esprit.dev)
+[![Gmail](https://img.shields.io/badge/Gmail-lidekai2008%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lidekai2008@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dekai%20Li-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dekai-li-8287332a6/)
+[![Website](https://img.shields.io/badge/Website-dekai.me-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dekai.me/)
+[![GitHub](https://img.shields.io/badge/GitHub-improdead-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/improdead)
+
 </div>
 
 ---
@@ -134,8 +208,7 @@ I’ve been fortunate to learn from founders at **Y Combinator**, **a16z**, and 
 </div>
 
 <div align="center">
-  
-### ⚡ Fun fact:  
-I once tried to get rich betting on math — now I build AI that *beats the odds*.
+
+### ⚡ Always happy to discuss tech.
 
 </div>
