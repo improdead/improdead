@@ -50,11 +50,13 @@ Previously, I was a **Software Engineer at RevisionDojo (YC F24)**, where I buil
 ## 💼 Experience
 
 ### 🧭 CTO at Trident
+
 <p>
   Leading technical direction, product execution, and engineering strategy.
 </p>
 
 ### 🚀 Co-Founder — Esprit
+
 <p>
   <strong>February 2026 – Present</strong> • San Francisco Bay Area
 </p>
@@ -62,6 +64,7 @@ Previously, I was a **Software Engineer at RevisionDojo (YC F24)**, where I buil
 Building new products from the ground up, with a focus on fast execution, software systems, and founder-led experimentation.
 
 ### 👾 Software Engineer — RevisionDojo (YC F24)
+
 <p>
   <strong>October 2025 – January 2026</strong> • New York, United States
 </p>
@@ -69,6 +72,7 @@ Building new products from the ground up, with a focus on fast execution, softwa
 Built **mobile infrastructure** and a **RAG system from scratch**, working across product, backend, AI systems, and engineering execution.
 
 ### 🔬 Researcher — University of Toronto
+
 <p>
   <strong>July 2025 – October 2025</strong> • Toronto, Ontario, Canada
 </p>
@@ -80,9 +84,11 @@ Worked on research-driven technical exploration, applying structured problem-sol
 ## 🎓 Education
 
 ### 🏫 University of Waterloo
+
 **Bachelor of Science — Computer Science**
 
 ### 🚀 Y Combinator
+
 Studied and learned from one of the world’s strongest startup ecosystems.
 
 ---
@@ -90,6 +96,7 @@ Studied and learned from one of the world’s strongest startup ecosystems.
 ## 🛠️ Skills & Tools
 
 ### 🏆 Top Skills
+
 <div align="center">
 
 ![Information Security](https://img.shields.io/badge/Information%20Security-0F172A?style=for-the-badge&logo=protonvpn&logoColor=white)
@@ -99,60 +106,65 @@ Studied and learned from one of the world’s strongest startup ecosystems.
 </div>
 
 ### 🧩 Programming Languages
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="55" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55" alt="C" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="55" alt="C#" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55" alt="Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55" alt="CSS3" />
 </div>
 
 ### ⚙️ Frameworks & Libraries
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55" />
-  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="55" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="55" />
-  <img src="https://www.vectorlogo.zone/logos/flaskio/flaskio-icon.svg" width="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="55" />
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55" alt="React" />
+  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="55" alt="Next.js" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="55" alt="Tailwind CSS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="55" alt="Node.js" />
+  <img src="https://www.vectorlogo.zone/logos/flaskio/flaskio-icon.svg" width="55" alt="Flask" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="55" alt="Express" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="55" alt="Django" />
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="55" alt="Unity" />
 </div>
 
 ### 🤖 AI / Machine Learning Stack
+
 <div align="center">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="55" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="55" />
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="55" />
-  <img src="https://www.svgrepo.com/show/354200/langchain-icon.svg" width="55" />
-  <img src="https://vectorlogo.zone/logos/huggingface/huggingface-icon.svg" width="55" />
-  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="55" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" width="55" />
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="55" alt="PyTorch" />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="55" alt="TensorFlow" />
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="55" alt="OpenCV" />
+  <img src="https://www.svgrepo.com/show/354200/langchain-icon.svg" width="55" alt="LangChain" />
+  <img src="https://vectorlogo.zone/logos/huggingface/huggingface-icon.svg" width="55" alt="Hugging Face" />
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="55" alt="FastAPI" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" width="55" alt="GraphQL" />
 </div>
 
 ### 🗄️ Databases & Cloud
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="55" />
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="55" />
-  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="55" />
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="55" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="55" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="55" alt="MongoDB" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="55" alt="PostgreSQL" />
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="55" alt="MySQL" />
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="55" alt="Redis" />
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="55" alt="AWS" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="55" alt="Azure" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="55" alt="Firebase" />
 </div>
 
 ### 🧰 Tools & DevOps
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="55" />
-  <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" width="55" />
-  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="55" />
-  <img src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="55" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55" alt="GitHub" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="55" alt="VS Code" />
+  <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" width="55" alt="Vercel" />
+  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="55" alt="Figma" />
+  <img src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg" width="55" alt="Notion" />
 </div>
 
 ---
@@ -165,50 +177,3 @@ Studied and learned from one of the world’s strongest startup ecosystems.
 2025 – 2026      Software Engineer at RevisionDojo (YC F24)
 2025             Researcher at University of Toronto
 Present          BSc Computer Science at University of Waterloo
-```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=improdead&show_icons=true&theme=radical&hide_border=true" alt="Dekai's GitHub Stats" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=improdead&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=improdead&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Esprit Email](https://img.shields.io/badge/Email-dekai%40esprit.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dekai@esprit.dev)
-[![Gmail](https://img.shields.io/badge/Gmail-lidekai2008%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lidekai2008@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dekai%20Li-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dekai-li-8287332a6/)
-[![Website](https://img.shields.io/badge/Website-dekai.me-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dekai.me/)
-[![GitHub](https://img.shields.io/badge/GitHub-improdead-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/improdead)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=improdead&style=flat-square&color=blueviolet" alt="Profile views" />
-</div>
-
-<div align="center">
-
-### ⚡ Always happy to discuss tech.
-
-</div>
