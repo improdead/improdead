@@ -187,18 +187,3 @@ Studied and learned from one of the world’s strongest startup ecosystems.
 2025 – 2026      Software Engineer at RevisionDojo (YC F24)
 2025             Researcher at University of Toronto
 Present          BSc Computer Science at University of Waterloo
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=improdead&theme=radical&hide_border=true" alt="GitHub Streak" /> </div> <br /> <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=improdead&theme=radical" alt="GitHub Profile Details" /> </div> <br /> <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=improdead&theme=radical" alt="Top Languages by Repo" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=improdead&theme=radical" alt="Top Languages by Commit" /> </div> <br /> <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=improdead&theme=radical" alt="GitHub Stats" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=improdead&theme=radical&utcOffset=-5" alt="Productive Time" /> </div>
-🌐 Connect With Me
-<div align="center">
-
-
-
-
-
-
-
-
-
-
-</div>
