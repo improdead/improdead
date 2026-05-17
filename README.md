@@ -181,12 +181,15 @@ Studied and learned from one of the world’s strongest startup ecosystems.
 
 ## 📌 Timeline
 
-```txt
-2026 – Present   Co-Founder at Esprit | San Francisco Bay Area
-2026 – Present   CTO at Trident
-2025 – 2026      Software Engineer at RevisionDojo (YC F24)
-2025             Researcher at University of Toronto
-Present          BSc Computer Science at University of Waterloo
+| Year | Role |
+|---|---|
+| 2026 – Present | Co-Founder at Esprit • San Francisco Bay Area |
+| 2026 – Present | CTO at Trident |
+| 2025 – 2026 | Software Engineer at RevisionDojo (YC F24) |
+| 2025 | Researcher at University of Toronto |
+| Present | BSc Computer Science at University of Waterloo |
+
+---
 
 ## 📊 GitHub Stats
 
@@ -219,5 +222,39 @@ Present          BSc Computer Science at University of Waterloo
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=improdead&theme=radical" alt="GitHub Stats" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=improdead&theme=radical&utcOffset=-5" alt="Productive Time" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-dekai%40esprit.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dekai@esprit.dev)
+[![Gmail](https://img.shields.io/badge/Gmail-lidekai2008%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lidekai2008@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dekai%20Li-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dekai-li-8287332a6/)
+[![Website](https://img.shields.io/badge/Website-dekai.me-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dekai.me/)
+[![GitHub](https://img.shields.io/badge/GitHub-improdead-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/improdead)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=improdead&style=flat-square&color=blueviolet" alt="Profile views" />
+
+</div>
+
+<div align="center">
+
+### ⚡ Always happy to discuss tech.
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FF4D8D,50:8B5CF6,100:0EA5E9&section=footer" alt="Footer Banner" />
 
 </div>
